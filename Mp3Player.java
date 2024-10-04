@@ -1,6 +1,6 @@
 import java.util.NoSuchElementException;
 
-public class HW02_20220808074 {
+public class Mp3Player {
     public static void main(String[] args) {
 
         MusicPlayer mp = new MusicPlayer("./Musics");
