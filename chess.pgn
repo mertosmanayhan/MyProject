@@ -1,0 +1,22 @@
+[Event "Rated blitz game"]
+[Site "https://lichess.org/bKBBs8JQ"]
+[Date "2024.12.26"]
+[White "mrtchess29"]
+[Black "brokebuthappy"]
+[Result "1-0"]
+[UTCDate "2024.12.26"]
+[UTCTime "19:16:08"]
+[WhiteElo "1641"]
+[BlackElo "1656"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B27"]
+[Opening "Sicilian Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:03:00] } 1... c5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:00] } { B27 Sicilian Defense } 2... d5 { [%clk 0:03:01] } 3. exd5 { [%clk 0:03:01] } 3... Qxd5 { [%clk 0:03:02] } 4. Nc3 { [%clk 0:03:02] } 4... Qd8 { [%clk 0:03:03] } 5. Bc4 { [%clk 0:03:03] } 5... e6 { [%clk 0:03:03] } 6. O-O { [%clk 0:03:04] } 6... Nc6 { [%clk 0:03:04] } 7. d3 { [%clk 0:02:57] } 7... Nf6 { [%clk 0:03:05] } 8. Bg5 { [%clk 0:02:57] } 8... Be7 { [%clk 0:03:05] } 9. a3 { [%clk 0:02:56] } 9... O-O { [%clk 0:03:05] } 10. Qd2 { [%clk 0:02:57] } 10... a6 { [%clk 0:03:00] } 11. Rad1 { [%clk 0:02:51] } 11... Nd4 { [%clk 0:03:00] } 12. Nxd4 { [%clk 0:02:39] } 12... cxd4 { [%clk 0:03:01] } 13. Ne2 { [%clk 0:02:41] } 13... e5 { [%clk 0:02:40] } 14. c3 { [%clk 0:02:37] } 14... Qd6 { [%clk 0:02:25] } 15. Kh1 { [%clk 0:02:33] } 15... h6 { [%clk 0:02:25] } 16. Bh4 { [%clk 0:02:30] } 16... Bg4 { [%clk 0:02:25] } 17. f3 { [%clk 0:02:29] } 17... Bh5 { [%clk 0:02:25] } 18. f4 { [%clk 0:02:13] } 18... Ng4 { [%clk 0:02:11] } 19. Bxe7 { [%clk 0:02:09] } 19... Qxe7 { [%clk 0:02:10] } 20. fxe5 { [%clk 0:02:07] } 20... Ne3 { [%clk 0:02:06] } 21. e6 { [%clk 0:01:48] } 21... Qg5 { [%clk 0:01:47] } 22. exf7+ { [%clk 0:01:44] } 22... Kh8 { [%clk 0:01:47] } 23. Nxd4 { [%clk 0:01:05] } 23... Bxd1 { [%clk 0:01:31] } 24. Rxd1 { [%clk 0:00:47] } 24... Nxd1 { [%clk 0:01:25] } 25. Qxd1 { [%clk 0:00:45] } 25... b5 { [%clk 0:01:23] } 26. Bb3 { [%clk 0:00:41] } 26... Rad8 { [%clk 0:01:17] } 27. Ne6 { [%clk 0:00:34] } 27... Rxf7 { [%clk 0:00:16] } 28. Nxg5 { [%clk 0:00:27] } { Black resigns. } 1-0
+
+
