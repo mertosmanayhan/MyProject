@@ -1,4 +1,4 @@
-public class hw3 {
+public class Sortingİmpl(Big O Notation) {
 
     public static void main(String[] args) {
         
